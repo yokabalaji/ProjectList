@@ -1,0 +1,33 @@
+.container{
+width: 100%;
+}
+.title{
+  text-align: center;
+font-weight: bold;
+font-size: 30px;
+}
+
+.tabsItems{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+
+}
+.prolists{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+
+}
+.prolistss{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+   list-style-type:none ;
+   flex-wrap: wrap;
+
+}

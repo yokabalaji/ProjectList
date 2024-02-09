@@ -1,0 +1,19 @@
+.container{
+    width: 100%;
+    text-align: center;
+}
+.proTitle{
+    font-weight: bold;
+}
+.desc{
+    font-weight: normal;
+}
+.uLists{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style-type:none ;
+}
+img{
+    width: 50px;
+}
